@@ -31,20 +31,20 @@ const ProjectCard = ({ image, title }) => {
 const Projects = () => {
   const listProjects = [
     {
-       image: "/work2.jpg",
+       image: "work2.jpg",
       title: "Full-Stack MERN E-Commerce Platform "
     },
     {
 
-      image: "/work4.jpeg",
+      image: "work4.jpeg",
       title: "Segmentation Of Microwave Brain images for stroke Identification"
     },
     {
-      image: "/work1.jpeg",
+      image: "work1.jpeg",
       title: "Influence of AI in Smart Cities"
     },
     {
-       image: "/work3.jpeg",
+       image: "work3.jpeg",
       title: "Credit Card Fraud Detection Based on Transaction Behaviour"
     }
     

@@ -20,7 +20,7 @@ export default function About() {
 
           {/* Image */}
           <img
-            src="/about.svg" 
+            src="about.svg" 
             alt="about picture" 
             className="relative z-10 w-[200px] sm:w-[300px] drop-shadow-lg"
           />

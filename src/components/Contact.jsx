@@ -45,7 +45,7 @@ export default function Contact() {
           <div className="absolute z-0 w-[280px] h-[280px] sm:w-[380px] sm:h-[380px] rounded-full bg-gradient-to-br from-[#6d2897] via-[#8e6cf5] to-[#bb61c5] shadow-[0_0_60px_rgba(182,0,182,0.6)]"></div>
           
           <img
-            src="/programmer.svg"
+            src="programmer.svg"
             alt="Programmer"
             className="w-full max-w-[380px] relative z-10 drop-shadow-2xl"
           />

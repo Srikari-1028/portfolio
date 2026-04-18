@@ -35,7 +35,7 @@ Passionate about creating intuitive UI/UX designs and delivering seamless cross-
           <div className="flex justify-center md:justify-start items-center space-x-5 mb-6">
             <a href="https://github.com" target="_blank" rel="noopener noreferrer">
               <img
-                src="/github.png" 
+                src="github.png" 
                 alt="GitHub"
                 className="w-8 h-8 hover:scale-110 transition-transform duration-300"
               />
@@ -43,14 +43,14 @@ Passionate about creating intuitive UI/UX designs and delivering seamless cross-
 
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
               <img
-                src="/linkedin.png"
+                src="linkedin.png"
                 alt="LinkedIn"
                 className="w-8 h-8 hover:scale-110 transition-transform duration-300"
               />
             </a>
           </div>
 
-          <a href="/New_resume.pdf" download>
+          <a href="New_resume.pdf" download>
             <button className="inline-flex text-white border-2 border-purple-500 py-2 px-6 rounded-full text-lg hover:bg-purple-700 transition-all duration-300">
               Download Resume
             </button>
@@ -60,7 +60,7 @@ Passionate about creating intuitive UI/UX designs and delivering seamless cross-
         {/* RIGHT IMAGE - USING PUBLIC FOLDER PATH */}
         <section className="flex-1 flex justify-center items-center">
           <img
-            src="/programmer.svg"
+            src="programmer.svg"
             alt="Programmer"
             className="w-[280px] sm:w-[350px] md:w-[400px] lg:w-[450px] drop-shadow-lg"
           />
