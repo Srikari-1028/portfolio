@@ -50,7 +50,7 @@ Passionate about creating intuitive UI/UX designs and delivering seamless cross-
             </a>
           </div>
 
-          <a href="New_resume.pdf" download>
+          <a href="AS_Resume.pdf" download>
             <button className="inline-flex text-white border-2 border-purple-500 py-2 px-6 rounded-full text-lg hover:bg-purple-700 transition-all duration-300">
               Download Resume
             </button>
